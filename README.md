@@ -1,2 +1,2 @@
-# -My-resume-
+# MyResume
 Added README to the resume
